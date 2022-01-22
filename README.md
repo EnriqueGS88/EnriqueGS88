@@ -8,14 +8,14 @@ Currently I'm working on an NFT that changes together with the weather.
 
 ## What I've done 👷‍♂️
 
-Recently created an NFT that generates its image from a verifiable random number. Then stored this image forever on the Ethereum blockchain on the block [redacted] transaction [redacted].
+Recently created an NFT that generates its image from a verifiable random number. Then stored this image forever on the Ethereum blockchain on the block ?_[redacted]_ transaction _[redacted]_.
 
-The OpenSea collection is here: [redacted]
+The OpenSea collection is here: _[redacted]_
 
 ## What I want to do next 🚀
 
-The intersection between NFTs and DeFi overly exciting for me. I want to experiment with insurance, options, rebasing tokens + an NFT on top of it.
-I want to build something nice that leverages both practices.
+The intersection between NFTs and DeFi is quite exciting for me. I want to experiment with insurance, options, rebasing tokens + an NFT on top of it.
+I want to build something nice that implements both practices.
 
 
 
