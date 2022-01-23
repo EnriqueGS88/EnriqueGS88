@@ -14,7 +14,7 @@ The OpenSea collection is here: _[redacted]_
 
 ## What I want to do next 🚀
 
-The intersection between NFTs and DeFi is quite exciting for me. I want to experiment with insurance, options, rebasing tokens + an NFT on top of it.
+The intersection between NFTs and DeFi is quite exciting for me. I'm experimenting with insurance, options, rebasing tokens + an NFT on top of it.
 I want to build something nice that implements both practices.
 
 
