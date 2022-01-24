@@ -23,7 +23,7 @@ I want to build something nice that implements both practices.
 ## Get in Touch
 [<img align="left" alt="Linkedin" width="28px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="28px" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" />][twitter]
-[<img align="left" alt="Twitter" width="28px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" />][gmail]
+[<img align="left" alt="Twitter" width="28px" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" />][<a href="mailto:your.email.address@domain.com?subject=My Subject Line" target="_blank"></a>]
 
 ## Languages and Tools
 [<img align="left" alt="Solidity" width="28px" src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" />][solidity]
@@ -37,7 +37,7 @@ I want to build something nice that implements both practices.
 [solidity]: https://github.com/EnriqueGS88/generative-nft-chainlinkVRF
 [linkedin]: https://www.linkedin.com/in/enrique-gonzalez-007/
 [twitter]: https://twitter.com
-[gmail]: <a href="mailto:your.email.address@domain.com?subject=My Subject Line" target="_blank"></a>
+
 
 
 <!--
