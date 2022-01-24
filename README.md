@@ -1,6 +1,7 @@
 ## Hi! I'm Enrique 👋
----
 I'm a Solution Manager that has picked up a passion for building blockchain apps.
+---
+<br />
 <br />
 
 ## What I do 🎨
@@ -22,9 +23,13 @@ I want to build something nice that implements both practices.
 <br />
 
 ## Languages and Tools
-[<img align="left" alt="ChartJS" width="26px" src="https://www.chartjs.org/img/chartjs-logo.svg" />][chartjs]
+[<img align="left" alt="ChartJS" width="28px" src="https://www.chartjs.org/img/chartjs-logo.svg" />][chartjs]
+[<img align="left" alt="Puppeteer" width="28px" src="https://developers.google.com/web/tools/images/puppeteer.png" />][puppeteer]
+[<img align="left" alt="Puppeteer" width="28px" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" />][hardhat]
 
 [chartjs]: https://github.com/EnriqueGS88/protocols_fees_chart
+[puppeteer]: https://github.com/EnriqueGS88/cryptofees_scraper
+[hardhat]: https://github.com/EnriqueGS88/generative-nft-chainlinkVRF
 
 
 <!--
