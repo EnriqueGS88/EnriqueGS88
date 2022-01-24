@@ -1,6 +1,7 @@
 ## Hi! I'm Enrique 👋
-
+---
 I'm a Solution Manager that has picked up a passion for building blockchain apps.
+<br />
 
 ## What I do 🎨
 
@@ -17,6 +18,13 @@ The OpenSea collection is here: _[redacted]_
 The intersection between NFTs and DeFi is quite exciting for me. I want to experiment with insurance, options, rebasing tokens + an NFT on top of it.
 I want to build something nice that implements both practices.
 
+<br />
+<br />
+
+## Languages and Tools
+[<img align="left" alt="ChartJS" width="26px" src="https://www.chartjs.org/img/chartjs-logo.svg" />][chartjs]
+
+[chartjs]: https://github.com/EnriqueGS88/protocols_fees_chart
 
 
 <!--
