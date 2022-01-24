@@ -23,7 +23,7 @@ I want to build something nice that implements both practices.
 ## Get in Touch
 [<img align="left" alt="Linkedin" width="28px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="28px" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" />][twitter]
-[![Gmail](https://raw.githubusercontent.com/EnriqueGS88/protocols_fees_chart/master/img/gmail_logo.png)](mailto:enrique.gzss@gmail.com) 
+[![Gmail](https://raw.githubusercontent.com/EnriqueGS88/protocols_fees_chart/master/img/gmail_logo.png)](mailto:enrique.gzs@gmail.com) 
 
 ## Languages and Tools
 [<img align="left" alt="Solidity" width="28px" src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" />][solidity]
