@@ -36,7 +36,7 @@ I want to build something nice that implements both practices.
 [hardhat]: https://github.com/EnriqueGS88/generative-nft-chainlinkVRF
 [solidity]: https://github.com/EnriqueGS88/generative-nft-chainlinkVRF
 [linkedin]: https://www.linkedin.com/in/enrique-gonzalez-007/
-[twitter]: https://twitter.com
+[twitter]: https://twitter.com/EnriqueGzs
 
 
 
