@@ -8,9 +8,7 @@ Currently I'm working on an NFT that changes together with the weather.
 
 ## What I've done 👷‍♂️
 
-Recently created an NFT that generates its image from a verifiable random number. Then stored this image forever on the Ethereum blockchain on the block _[redacted]_ transaction _[redacted]_.
-
-The OpenSea collection is here: _[redacted]_
+Recently created an [NFT collection][epitaphNFT] that generates its images from a verifiable random number. Then stored this image forever on the Ethereum blockchain on the block _9569402_ transaction [0x01a696b4f0e39653c6d729fbfe464b29958c10798a900003674ff4ed77126961][txHash].
 
 ## What I want to do next 🚀
 
@@ -37,6 +35,8 @@ I want to build something nice that implements both practices.
 [solidity]: https://github.com/EnriqueGS88/generative-nft-chainlinkVRF
 [linkedin]: https://www.linkedin.com/in/enrique-gonzalez-007/
 [twitter]: https://twitter.com/EnriqueGzs
+[epitaphNFT]: https://my-epitaph-nft.enriquegs88.repl.co
+[txHash]: https://rinkeby.etherscan.io/tx/0x01a696b4f0e39653c6d729fbfe464b29958c10798a900003674ff4ed77126961
 
 
 
