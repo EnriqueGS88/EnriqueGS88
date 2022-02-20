@@ -24,6 +24,8 @@ I want to build something nice that implements both practices.
 [<img align="left" alt="ChartJS" width="28px" src="https://www.chartjs.org/img/chartjs-logo.svg" />][chartjs]
 [<img align="left" alt="Puppeteer" width="28px" src="https://developers.google.com/web/tools/images/puppeteer.png" />][puppeteer]
 
+<br />
+<br />
 
 ## Get in Touch
 [<img align="left" alt="Linkedin" width="28px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
