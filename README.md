@@ -25,7 +25,7 @@ Real world use cases, like real estate, Regenerative Finance, #ReFi and Carbon C
 [<img align="left" alt="Hardhat" width="28px" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" />][hardhat]
 [<img align="left" alt="ChartJS" width="28px" src="https://www.chartjs.org/img/chartjs-logo.svg" />][chartjs]
 [<img align="left" alt="Puppeteer" width="28px" src="https://developers.google.com/web/tools/images/puppeteer.png" />][puppeteer]
-[<img align="left" alt="react" width="28px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" />][react]
+[<img align="left" alt="react" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />][react]
 
 <br />
 <br />
