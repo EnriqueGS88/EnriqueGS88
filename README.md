@@ -5,9 +5,8 @@ I'm a Solution Manager that has picked up a passion for building blockchain apps
 ## What I do
 
 Currently I'm working on three projects:
-- Tokenization of Real Estate documentation (not DeFi)
-- Usage of NFTs as online access gates
-- Tokenization of Carbon Credits
+- Carbon Credits
+- NFT-gated websites
 
 ## What I've done 👷‍♂️
 
@@ -17,7 +16,7 @@ Before I launched an [NFT collection][epitaphNFT] that generates its images from
 
 ## What I want to do next 🚀
 
-Real world use cases, like real estate, Regenerative Finance, #ReFi and Carbon Credits market
+Real world use cases: Regenerative Finance, #ReFi and Carbon Credits market
 
 <br />
 <br />
