@@ -11,7 +11,9 @@ Currently I'm working on three projects:
 
 ## What I've done 👷‍♂️
 
-Recently created an [NFT collection][epitaphNFT] that generates its images from a verifiable random number. Then stored this image forever on the Ethereum blockchain on the block _9569402_ transaction [0x01...961][txHash].
+Recently created an AI automation that offsets Carbon emissions. [CarbonRaptr][carbonRaptr] AI algo is trained with data from your favorite carbon calculator. Then CarbonRaptr 🦖 automatically determines when to buy verified tokenized carbon credits. Powered by [Polygon][polygon] network and [Toucan][toucan] protocol.
+
+Before I launched an [NFT collection][epitaphNFT] that generates its images from a Verifiable Random Function. Then stored this image on the Rinkeby blockchain on the block _9569402_ transaction [0x01...961][txHash].
 
 ## What I want to do next 🚀
 
@@ -45,6 +47,9 @@ Real world use cases, like real estate, Regenerative Finance, #ReFi and Carbon C
 [twitter]: https://twitter.com/EnriqueGzs
 [epitaphNFT]: https://my-epitaph-nft.enriquegs88.repl.co
 [txHash]: https://rinkeby.etherscan.io/tx/0x01a696b4f0e39653c6d729fbfe464b29958c10798a900003674ff4ed77126961
+[carbonRaptr]: https://app.carbonraptr.io/
+[toucan]: https://toucan.earth/
+[polygon]: https://polygon.technology/
 
 
 
