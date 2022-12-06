@@ -4,9 +4,9 @@ I'm a Solution Manager that has picked up a passion for building blockchain apps
 
 ## What I do
 
-Currently I'm working on three projects:
+Currently I'm working on two projects:
 - Carbon Credits
-- NFT-gated websites
+- Token-gated Marketplace
 
 ## What I've done 👷‍♂️
 
