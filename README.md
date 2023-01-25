@@ -1,22 +1,14 @@
 ## Hi! I'm Enrique 👋
-I'm a Solution Manager that has picked up a passion for building blockchain apps.
+I'm a Solution Manager that has picked up a passion for building web apps.
 <br />
-
-## What I do
-
-Currently I'm working on two projects:
-- Carbon Credits
-- Token-gated Marketplace
 
 ## What I've done 👷‍♂️
 
-Recently created an AI automation that offsets Carbon emissions. [CarbonRaptr][carbonRaptr] AI algo is trained with data from your favorite carbon calculator. Then CarbonRaptr 🦖 automatically determines when to buy verified tokenized carbon credits. Powered by [Polygon][polygon] network and [Toucan][toucan] protocol.
+Last year I created an AI automation that offsets Carbon emissions. [CarbonRaptr][carbonRaptr] 🦖 provides a layer of open APIs to let businesses simply call and automate the purchase of carbon offsets. Powered by [Polygon][polygon] network and [Toucan][toucan] protocol.
 
-Before I launched an [NFT collection][epitaphNFT] that generates its images from a Verifiable Random Function. Then stored this image on the Rinkeby blockchain on the block _9569402_ transaction [0x01...961][txHash].
+Most recently I delivered a workshop about Automated Testing using Puppeteer on the [Nodejs Global Summit](https://events.geekle.us/nodejs2/). You can watch the live coding session [here](https://www.youtube.com/watch?v=seGVmqw2vTY).
 
-## What I want to do next 🚀
-
-Real world use cases: Regenerative Finance, #ReFi and Carbon Credits market
+Before I launched an [NFT collection][epitaphNFT] that generates its images from a Verifiable Random Function. You can check it out on this transaction: _9569402_ [0x01...961][txHash].
 
 <br />
 <br />
@@ -34,7 +26,7 @@ Real world use cases: Regenerative Finance, #ReFi and Carbon Credits market
 ## Get in Touch
 [<img align="left" alt="Linkedin" width="28px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="28px" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" />][twitter]
-[![Gmail](https://raw.githubusercontent.com/EnriqueGS88/protocols_fees_chart/master/img/gmail_logo.png)](mailto:enrique.gzs@gmail.com) 
+[![Gmail](https://raw.githubusercontent.com/EnriqueGS88/protocols_fees_chart/master/img/gmail_logo.png)](mailto:enriques@skiff.com) 
 
 
 [chartjs]: https://github.com/EnriqueGS88/protocols_fees_chart
